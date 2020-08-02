@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone! 
+
+It`s start my career like programmer, wish me lucky :d
